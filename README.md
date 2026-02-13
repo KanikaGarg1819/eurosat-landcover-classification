@@ -25,6 +25,9 @@ Forest, Residential, Industrial, Sea/Lake, etc.
 📌 *Google Colab Demo:*
 📌 **Google Colab Demo:**  
 [Click here to open the Colab notebook](https://colab.research.google.com/drive/1w3i9AfXT4pQOuIQ5W-QTOqoRwxUsg5r3?usp=sharing)
+## Confusion Matrix
+
+![Confusion Matrix](results/confusion_matrix.png)
 
 
 ## How to Run
